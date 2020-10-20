@@ -9,7 +9,7 @@
 [![Bountysource Activity](https://img.shields.io/bountysource/team/juice-shop/activity.svg)](https://www.bountysource.com/teams/juice-shop)
 ![GitHub issues by-label "help wanted"](https://img.shields.io/github/issues/bkimminich/juice-shop/help%20wanted.svg)
 ![GitHub issues by-label "good first issue"](https://img.shields.io/github/issues/bkimminich/juice-shop/good%20first%20issue.svg)
-
+ 
 ## Code Contributions
 
 The minimum requirements for code contributions are:
